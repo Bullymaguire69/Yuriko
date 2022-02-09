@@ -84,16 +84,23 @@ yurikorobot_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
 PM_START_TEXT = """
 *👋 Hello {} !*
 
-✗ *I'Aᴍ Aɴ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
-✗ *Aᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ  Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ  I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ  Fᴇᴀᴛᴜʀᴇꜱ!*
-  *i can manage group like no one can do even Rose!!*
+✗ *A telegram group management bot. I'm here to help you to manage your groups.
+I have lots of handy features such as:
+‣ Warning system
+‣ Artificial intelligence
+‣ Flood control system
+‣ Note keeping system
+‣ Filters keeping system
+‣ Approvals and much more.
+So what are you waiting for?
+Add me in your groups and give me full rights to make me function well 
+  *i can manage group like no one can do even Rose!!* [🔥](https://telegra.ph/file/4025a278efac4506771bb.jpg)
 ────────────────────────
 × *Uᴘᴛɪᴍᴇ:* `{}`
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
 ────────────────────────
-✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Darkest Market!*
-"""
-
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Bully Maguire!*
+""" 
 buttons = [
     [
         InlineKeyboardButton(
